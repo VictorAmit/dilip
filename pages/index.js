@@ -63,7 +63,7 @@ export default function Home() {
 					<div className="row">
 						<div className="col-lg-6">
 							<div className="main-profile-image">
-								<img src="assets/images/main-img.jpg" alt="" />
+								<img src="assets/images/main.jpg" alt="" />
 							</div>
 						</div>
 						<div className="col-lg-6  align-self-center">
