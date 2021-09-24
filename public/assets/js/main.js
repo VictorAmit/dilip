@@ -41,7 +41,7 @@ $(function ($) {
     var $typed = $("#typed");
     if ($typed.length > 0) {
       $typed.typed({
-        strings: ["Web Design", "Web Development", "UI/UX Design"],
+        strings: ["Social Activist", "Media Handler", "Bjp Member"],
         stringsElement: null,
         typeSpeed: 70,
         startDelay: 150,
