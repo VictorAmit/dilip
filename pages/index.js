@@ -76,8 +76,8 @@ export default function Home() {
 								<h4 className="header_title"> I Do <span id="typed"></span></h4>
 								<p className="short-info">
 									With over 5+ years of job experience. I am work as a Social Media Hander and later I'm hounrable Member of Bjp Delhi. My skills include A Leader , An Activist , Social Worker & Media Representative.	</p>
-								<a id="g-p-f-h" className="pagelink mybtn mybtn-bg" target="_blank" href="https://twitter.com/dilipkumar999"><span><i
-											className="fas fa-briefcase"></i>Portfolio</span></a>
+								<a id="g-p-f-h" className="pagelink mybtn mybtn-bg" target="_blank" href="https://twitter.com/dilipkumar999/"><span><i
+											className="fas fa-twitter"></i>Twitter</span></a>
 							</div>
 						</div>
 					</div>
